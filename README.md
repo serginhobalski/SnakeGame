@@ -1,4 +1,4 @@
-# Jogo da cobra :snake:
+# Jogo da Cobrinha (Snake Game) :snake:
 
 ###### Desenvolvimento do "jogo da cobrinha" (Snake Game) feito com **JavaScript**
 
